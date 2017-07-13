@@ -1,0 +1,22 @@
+{
+  "name": "webmodule",
+  "homepage": "https://github.com/maylanvn/webmodule",
+  "authors": [
+    "Maylan Velazquez <maylanvn@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "keywords": [
+    "angular",
+    "video"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

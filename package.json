@@ -1,0 +1,23 @@
+{
+  "name": "webmodule",
+  "version": "1.0.0",
+  "description": "WebModule",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maylanvn/webmodule.git"
+  },
+  "keywords": [
+    "Angular",
+    "video"
+  ],
+  "author": "Maylan Velazquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maylanvn/webmodule/issues"
+  },
+  "homepage": "https://github.com/maylanvn/webmodule#readme"
+}
